@@ -1,14 +1,18 @@
 Project Title: Sonar Rock vs. Mine Classification Using Logistic Regression
-Introduction
+
+-Introduction
+
 In this project, we aim to classify sonar signals as either rocks (R) or mines (M) using logistic regression. Sonar data has been widely used for this purpose due to its applications in underwater navigation and defense.
 
-Dependencies
+-Dependencies
+
 Ensure you have the following Python libraries installed:
 
-numpy for numerical operations
-pandas for data manipulation
-scikit-learn (sklearn) for machine learning algorithms and metrics
-Data Collection and Processing
+-numpy for numerical operations
+-pandas for data manipulation
+-scikit-learn (sklearn) for machine learning algorithms and metrics
+-Data Collection and Processing
+
 We start by loading the dataset and exploring its structure:
 
 The dataset consists of 208 samples with 60 features each.
